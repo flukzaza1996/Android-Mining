@@ -1,2 +1,2 @@
 #!/bin/sh
-~/CCminer-ARM-optimized /ccminer -c ~/CCminer-ARM-optimized /config.json
+/home/userland/CCminer-ARM-optimized /ccminer -c /home/userland/CCminer-ARM-optimized /config.json
